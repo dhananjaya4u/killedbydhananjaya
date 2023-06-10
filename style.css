@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 * {
 	margin: 0;
 }
 
 body {
-	font-family: Inter;
+	font-family: 'Inter', sans-serif;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -20,6 +22,9 @@ body {
   	max-width: 720px;
   	padding-top: 20px;
   	padding-bottom: 40px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
 }
 
 .box {
